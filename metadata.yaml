@@ -1,0 +1,31 @@
+_repo: First-Plays_7805
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Miln, Alen Aleksander
+    - Milne, Alan Alexander
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
+description: ''
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Drama'
+- GITenberg
+tableOfContents: Wurzel-Flummery -- The lucky one -- The boy comes home -- Belinda
+  -- The red feathers.
+title: First Plays
+url: http://www.gutenberg.org/ebooks/7805
